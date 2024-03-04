@@ -1,0 +1,134 @@
+h3 {
+    margin-top: 10px;
+}
+
+.navb {
+    justify-content: space-between;
+}
+
+.box-TEXT {
+    margin: 20px;
+    justify-items: center;
+    padding-top: 45px;
+}
+
+.box1 {
+    width: 250px;
+    background-color: beige;
+    padding: 10px;
+    ;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.GROUP-BOX {
+    justify-content: space-evenly;
+}
+
+nav {
+    background-color: rgb(244, 235, 235);
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+
+.bande {
+    background-color: lightskyblue;
+    justify-content: space-evenly;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+.test {
+    margin-top: 35px;
+}
+
+.fiche img {
+    width: 50px;
+    height: 60px;
+    border-radius: 50%;
+
+}
+
+.boxfich {
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.boxfich p {
+    background-color: lightcyan;
+    padding: 10px;
+}
+
+.cart {
+    height: 250px;
+    background-color: white;
+    margin: 15px;
+
+}
+
+.carte {
+    margin-top: 25px;
+    padding: 5px;
+    justify-content: center;
+    gap: 15px;
+
+    ;
+
+
+
+}
+
+.carte img {
+    width: 50px;
+}
+
+.ser {
+    background-color: lightcyan;
+}
+
+.action {
+    margin-top: 25px;
+    background-color: lightblue;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.question {
+    margin-top: 30px;
+}
+
+.contact {
+    margin-top: 30px;
+}
+
+.info img {
+    width: 40px;
+    height: 50px;
+}
+
+.glob {
+    margin-top: 30px;
+}
+
+textarea {
+    margin-top: 10px;
+
+}
+
+.form button {
+    margin-top: 20px;
+}
+
+.fin {
+    margin-top: 30px;
+}
+
+h1, h2, h3, h4 {
+
+    color: rgb(57, 28, 218) !important;
+}
+
+.bo {
+    height: fit-content;
+
+}
